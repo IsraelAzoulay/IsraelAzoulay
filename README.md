@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://github.com/IsraelAzoulay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/israelazoulay/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow)](https://huggingface.co/IsraelAzoulay)
-[![Email](https://img.shields.io/badge/Email-Send%20a%20mail-red)](mailto:your_email_address)
+[![Email](https://img.shields.io/badge/Email-Send%20a%20mail-red)](mailto:israelazoulay1@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IsraelAzoulay&color=blueviolet)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IsraelAzoulay)
@@ -25,7 +25,7 @@
 | [BTC Price Predictor - Time Series](https://github.com/IsraelAzoulay/BTC-Price-Predictor) | Time series forecasting project aimed at predicting the price of Bitcoin using machine learning and deep learning techniques with TensorFlow. |
 | [Smart Abstract Classifier - NLP](https://github.com/IsraelAzoulay/SmartAbstractClassifier-NLP) | Developing a Natural Language Processing model to classify sentences in abstracts, articles, and other texts into their respective roles. |
 | [HireMind - NLP](https://github.com/IsraelAzoulay/HireMind) | A private, in-progress job management web-app merging advanced ML and DL models, NLP techniques, and robust management. |
-| [Webcam Guardian Alert (OpenCV)](https://github.com/IsraelAzoulay/webcam-guardian-alert) | A monitoring tool that uses your webcam to detect movement and send email alerts. |
+| [Webcam Guardian Alert - Computer Vision (OpenCV)](https://github.com/IsraelAzoulay/webcam-guardian-alert) | A monitoring tool that uses your webcam to detect movement and send email alerts. |
 | [PropPredict](https://github.com/IsraelAzoulay/PropPredict) | Developing a Machine Learning Real Estate Price Prediction Engine. |
 
 ### DevOps Project
