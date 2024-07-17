@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-Send%20a%20mail-red)](mailto:israelazoulay1@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IsraelAzoulay&color=blueviolet)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IsraelAzoulay)
+![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=IsraelAzoulay.visitor-badge-reloaded)
 
 - 🎯 **Currently pursuing**: Harnessing the power of Computer Vision to develop innovative solutions that address complex, real-world problems. Leveraging cutting-edge technologies to drive impactful results and foster innovation in the field of AI.
 - 📚 **Continuing Learninig**: Immersing myself in advanced deep learning algorithms and their applications across various domains. Always striving to stay at the forefront of technological advancements and best practices in the industry.
