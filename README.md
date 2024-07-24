@@ -19,7 +19,7 @@
 ### Data Science, Machine Learning & Deep Learning Projects
 | Title | Description |
 |-------|-------------|
-| [MultiClass Classifier - ComputerVision](https://github.com/IsraelAzoulay/MultiClass-Classifier-ComputerVision) | Currently developing a Multi-Class classifier Computer Vision project with PyTorch. | 
+| [MultiClass Image Classifier - ComputerVision](https://github.com/IsraelAzoulay/MultiClass-Classifier-ComputerVision) | Currently developing a Multi-Class classifier Computer Vision project with PyTorch. | 
 | [Food Image Deca (10 Classes) Classifier - Computer Vision](https://github.com/IsraelAzoulay/food-image-deca-classifier-computer-vision) | Classifying images of 10 different food classes using deep learning and computer vision techniques with TensorFlow. Achieved 90% accuracy on the full test set. |
 | [Food Image 101 Classes Classifier - Computer Vision](https://github.com/IsraelAzoulay/food-image-101-classes-classifier-computer-vision) | Leveraging transfer learning and fine-tuning with TensorFlow to achieve 80% accuracy on the full test set. This exceeds the 50.76% baseline accuracy reported in the original Food101 paper using 10% of the training data and surpasses the 77.4% accuracy benchmark from the DeepFood paper using 100% of the training data. |
 | [BTC Price Predictor - Time Series](https://github.com/IsraelAzoulay/BTC-Price-Predictor) | Time series forecasting project aimed at predicting the price of Bitcoin using machine learning and deep learning techniques with TensorFlow. |
