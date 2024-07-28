@@ -10,7 +10,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IsraelAzoulay)
 
 - 🎯 **Currently pursuing**: Harnessing the power of Computer Vision to develop innovative solutions that address complex, real-world problems. Leveraging cutting-edge technologies to drive impactful results and foster innovation in the field of AI.
-- 📚 **Continuing Learninig**: Immersing myself in advanced deep learning algorithms and their applications across various domains. Always striving to stay at the forefront of technological advancements and best practices in the industry.
+- 📚 **Continuing Learning**: Immersing myself in advanced deep learning algorithms and their applications across various domains. Always striving to stay at the forefront of technological advancements and best practices in the industry.
 - 🚀 **Passions**: Ardently dedicated to Data Science, Machine Learning, Deep Learning, and Computer Vision. Eager to collaborate, share insights and discuss groundbreaking ideas that push the boundaries of what’s possible.
 - ⚡ **Fun fact**: In the realm of data and algorithms, "Impossible" is simply "I'm-Possible", yet to be decoded.
 
