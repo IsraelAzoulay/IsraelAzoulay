@@ -1,4 +1,4 @@
-![Animated Text](Bouncing-period-[remix]Big.gif)
+![Animated Text](Bouncing-period-[remix]msBig.gif)
 
 
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://github.com/IsraelAzoulay)
