@@ -1,7 +1,7 @@
 ![Animated Text](Bouncing-period-[remix]msBig.gif)
 
 
-[![Website](https://img.shields.io/badge/Website-Visit-green)](https://github.com/IsraelAzoulay)
+[![Website](https://medium.com/@israelazoulay1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/israelazoulay/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow)](https://huggingface.co/IsraelAzoulay)
 [![Email](https://img.shields.io/badge/Email-Send%20a%20mail-red)](mailto:israelazoulay1@gmail.com)
@@ -43,8 +43,9 @@
 | [EventEagleEye](https://github.com/IsraelAzoulay/tour-notifier) | Python-based application designed to periodically scan a specific website for new tour event announcements and send email notifications. |
 
 ## Blog Posts
-I regularly post detailed articles on LinkedIn, discussing various topics in data science, machine learning & deep learning. You can explore my posts and connect with me on LinkedIn:
+I regularly share insightful posts on LinkedIn and publish in-depth articles on Medium, exploring topics in data science, machine learning, and deep learning. Discover my work and connect with me:
 - [LinkedIn Profile](https://www.linkedin.com/in/israelazoulay/)
+- [Medium Articles](https://medium.com/@israelazoulay1)
 
 ## Let's Connect
 Feel free to explore my work and connect with me through any of the platforms listed above. Let's exchange knowledge and build something amazing together 🚀 
