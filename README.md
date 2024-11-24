@@ -1,7 +1,7 @@
 ![Animated Text](Bouncing-period-[remix]msBig.gif)
 
 
-[![Website](https://medium.com/@israelazoulay1)
+[![Website](https://img.shields.io/badge/Website-Visit-green)](https://medium.com/@israelazoulay1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/israelazoulay/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow)](https://huggingface.co/IsraelAzoulay)
 [![Email](https://img.shields.io/badge/Email-Send%20a%20mail-red)](mailto:israelazoulay1@gmail.com)
