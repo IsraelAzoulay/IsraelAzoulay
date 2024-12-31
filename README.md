@@ -27,6 +27,7 @@
 | [HireMind - NLP](https://github.com/IsraelAzoulay/HireMind) | A private, in-progress job management web-app merging advanced ML and DL models, NLP techniques, and robust management. |
 | [Webcam Guardian Alert - Computer Vision (OpenCV)](https://github.com/IsraelAzoulay/webcam-guardian-alert) | A monitoring tool that uses your webcam to detect movement and send email alerts. |
 | [PropPredict](https://github.com/IsraelAzoulay/PropPredict) | Developing a Machine Learning Real Estate Price Prediction Engine. |
+| [TrackTelligence: Spotify Popularity Predictor - Data Science](https://github.com/IsraelAzoulay/TrackTelligence-Spotify-Popularity-Predictor) | Data Science project analyzing Spotify song features through EDA, clusterin, and statistical modeling to predict song popularity using `statsmodels` and `scikit-learn`. |
 
 ### DevOps Project
 | Title | Description |
