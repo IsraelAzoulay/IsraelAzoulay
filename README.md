@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=IsraelAzoulay&color=blueviolet)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IsraelAzoulay)
 
-- 🎯 **Currently pursuing**: A Master of Science (MSc) in Data Science from the University of Pittsburgh, and harnessing the power of Computer Vision to develop innovative solutions that address complex, real-world problems. Leveraging cutting-edge technologies to drive impactful results and foster innovation in the field of AI.
+- 🎯 **Currently pursuing**: A Master of Science (MSc) in Data Science from the University of Pittsburgh, and harnessing the power of Computer Vision, NLP, LLMs and Quantitative research and development to develop innovative solutions that address complex problems. Leveraging cutting-edge technologies to drive impactful results and foster innovation in the field of AI.
 - 📚 **Continuing Learning**: Immersing myself in advanced deep learning algorithms and their applications across various domains. Always striving to stay at the forefront of technological advancements and best practices in the industry.
 - 🚀 **Passions**: Ardently dedicated to Data Science, Machine Learning, Deep Learning, and Computer Vision. Eager to collaborate, share insights and discuss groundbreaking ideas that push the boundaries of what’s possible.
 - ⚡ **Fun fact**: In the realm of data and algorithms, "Impossible" is simply "I'm-Possible", yet to be decoded.
